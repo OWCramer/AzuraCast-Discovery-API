@@ -209,13 +209,13 @@
     },
     {
       "lastUpdated": "Feb 2025",
-      "title": "Sounds From Down Under",
+      "title": "Sounds From Down Unda",
       "description": "Stations from AU and NZ",
       "stations": [ 
         {
           "friendlyName": "2GHR Greater Hume Radio",
           "shortCode": "2ghr",
-          "imageMediaUrl": "https://az1.syd2.hostyourservices.au/api/station/2ghr/art/-1",
+          "imageMediaUrl": "https://2ghr.org.au/images/albumart/2ghr-stationart.jpg",
           "plsUrl": "https://az1.syd2.hostyourservices.au/public/2ghr/playlist.pls",
           "publicPlayerUrl": "https://az1.syd2.hostyourservices.au/public/2ghr",
           "description": "Community radio in the Greater Hume",
@@ -258,7 +258,7 @@
           {
             "friendlyName": "SpriteLayer Video Game Radio",
             "shortCode": "spritelayer_video_game_radio",
-            "imageMediaUrl": "https://www.spritelayerradio.com/api/stationspritelayer_video_game_radio/art/-1",
+            "imageMediaUrl": "https://www.spritelayerradio.com/api/station/spritelayer_video_game_radio/art/-1",
             "plsUrl": "https://www.spritelayerradio.com/public/spritelayer_video_game_radio/playlist.pls",
             "publicPlayerUrl": "https://www.spritelayerradio.com/public/spritelayer_video_game_radio",
             "description": "Video Game music from every generation",
