@@ -36,8 +36,8 @@
           "friendlyName": "Miku Radio",
           "shortCode": "miku",
           "imageMediaUrl": "https://miku.fm/api/station/miku/art/-1",
-          "plsUrl": "https://radio.mtu.lol/public/miku/playlist.pls",
-          "publicPlayerUrl": "https://radio.mtu.lol/public/miku",
+          "plsUrl": "https://miku.fm/public/miku/playlist.pls",
+          "publicPlayerUrl": "https://miku.fm/public/miku",
           "description": "24/7 Miku",
           "supportsHls": false
         }
