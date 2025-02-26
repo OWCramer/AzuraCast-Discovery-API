@@ -281,24 +281,6 @@
       "description": "Dance, EDM, and House",
       "stations": [
           {
-            "friendlyName": "RADIO A",
-            "shortCode": "radio_a",
-            "imageMediaUrl": "https://audio.playradio.pro/api/station/radio_a/art/-1",
-            "plsUrl": "https://audio.playradio.pro/public/radio_a/playlist.pls",
-            "publicPlayerUrl": "https://audio.playradio.pro/public/radio_a",
-            "description": "HOUSE POP ROCK 24/7 !",
-            "supportsHls": true
-          },
-          {
-            "friendlyName": "Road FM",
-            "shortCode": "road_fm",
-            "imageMediaUrl": "https://audio.playradio.pro/api/station/road_fm/art/-1",
-            "plsUrl": "https://audio.playradio.pro/public/road_fm/playlist.pls",
-            "publicPlayerUrl": "https://audio.playradio.pro/public/road_fm",
-            "description": "Boost Your Road!",
-            "supportsHls": true
-          },
-          {
             "friendlyName": "MINIMALRADIO.DE",
             "shortCode": "320.mp3",
             "imageMediaUrl": "https://azurafallback.de/api/station/320.mp3/art/-1",
