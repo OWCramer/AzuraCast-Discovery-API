@@ -80,15 +80,15 @@
           "hlsUrl": "https://radio.owencramer.dev/hls/bagel/live.m3u8"
         },
         {
-          "friendlyName": "Relay-Radio",
-          "shortCode": "relay-radio",
-          "imageMediaUrl": "https://radio.relay-radio.com/api/station/relay-radio/art/-1",
-          "plsUrl": "https://radio.relay-radio.com/public/relay-radio/playlist.pls",
-          "publicPlayerUrl": "https://radio.relay-radio.com/public/relay-radio",
-          "preferredMount": "https://radio.relay-radio.com/listen/relay-radio/radio.mp3",
-          "description": "Relay-Radio, radio for chat networks",
-          "supportsHls": false,
-          "hlsUrl": null
+          "friendlyName": "OPS Shop Radio",
+          "shortCode": "ops_radio",
+          "imageMediaUrl": "https://radio.mtu.lol/api/station/ops_radio/art/-1",
+          "plsUrl": "https://radio.mtu.lol/public/ops_radio/playlist.pls",
+          "publicPlayerUrl": "https://radio.mtu.lol/public/ops_radio",
+          "preferredMount": "https://radio.mtu.lol/listen/ops_radio/mp3-320",
+          "description": "",
+          "supportsHls": true,
+          "hlsUrl": "https://radio.mtu.lol/hls/ops_radio/live.m3u8"
         },
         {
           "friendlyName": "Reboot Radio",
