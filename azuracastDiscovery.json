@@ -53,7 +53,7 @@
   },
   "discoveryStations": [
     {
-      "lastUpdated": "Feb 2025",
+      "lastUpdated": "Apr 2026",
       "title": "Genre Jumping",
       "description": "A little bit of everything for everyone",
       "stations": [
@@ -80,6 +80,17 @@
           "hlsUrl": "https://radio.owencramer.dev/hls/bagel/live.m3u8"
         },
         {
+          "friendlyName": "Multiverse Radio",
+          "shortCode": "multiverse",
+          "imageMediaUrl": "https://radio.dinosite.net/station/api/station/multiverse/art/-1",
+          "plsUrl": "https://radio.dinosite.net/public/multiverse/playlist.pls",
+          "publicPlayerUrl": "https://radio.dinosite.net/public/multiverse",
+          "preferredMount": "https://radio.dinosite.net/listen/multiverse/multiverse.mp3",
+          "description": "Plays music from all corners of the Hyperverse.",
+          "supportsHls": false,
+          "hlsUrl": null
+        },
+        {
           "friendlyName": "OPS Shop Radio",
           "shortCode": "ops_radio",
           "imageMediaUrl": "https://radio.mtu.lol/api/station/ops_radio/art/-1",
@@ -104,7 +115,7 @@
       ]
     },
     {
-      "lastUpdated": "Feb 2025",
+      "lastUpdated": "Apr 2026",
       "title": "Background Beats",
       "description": "Background sounds for any task",
       "stations": [
@@ -138,6 +149,28 @@
           "publicPlayerUrl": "https://public.isekoi-radio.com/public/chill",
           "preferredMount": "https://public.isekoi-radio.com/listen/chill/radio.mp3",
           "description": "ISEKOI Radio presents Chill Zone: Relaxing signals captured by our outpost on Tau Ceti-e. This super-Earth transmits smooth, energizing frequencies perfectly calibrated for crew recreation and downtime.",
+          "supportsHls": false,
+          "hlsUrl": null
+        },
+        {
+          "friendlyName": "Outside The Club Radio",
+          "shortCode": "outsidetheclub",
+          "imageMediaUrl": "https://radio.dinosite.net/station/api/station/outsidetheclub/art/-1",
+          "plsUrl": "https://radio.dinosite.net/public/outsidetheclub/playlist.pls",
+          "publicPlayerUrl": "https://radio.dinosite.net/public/outsidetheclub",
+          "preferredMount": "https://radio.dinosite.net/listen/outsidetheclub/radio.mp3",
+          "description": "All the newest and oldest Pop hits, but you weren't allowed into the club.",
+          "supportsHls": false,
+          "hlsUrl": null
+        },
+        {
+          "friendlyName": "VSauce OST",
+          "shortCode": "vsauce",
+          "imageMediaUrl": "https://radio.dinosite.net/station/api/station/vsauce/art/-1",
+          "plsUrl": "https://radio.dinosite.net/public/vsauce/playlist.pls",
+          "publicPlayerUrl": "https://radio.dinosite.net/public/vsauce",
+          "preferredMount": "https://radio.dinosite.net/listen/vsauce/radio.mp3",
+          "description": "Or is it?",
           "supportsHls": false,
           "hlsUrl": null
         },
@@ -275,7 +308,7 @@
       ]
     },
     {
-      "lastUpdated": "Feb 2025",
+      "lastUpdated": "Apr 2026",
       "title": "Pixel Symphony",
       "description": "Sounds from the best in-game music",
       "stations": [
@@ -287,6 +320,17 @@
           "publicPlayerUrl": "https://play.radiorivendell.com/public/radio_rivendell",
           "preferredMount": "https://play.radiorivendell.com/radio/8000/radio.mp3",
           "description": "Radio Rivendell is the one and only fantasy radio station in the world playing fantasy music 24-7! We like to promote young and unknown artists and bands to the broader audience.",
+          "supportsHls": false,
+          "hlsUrl": null
+        },
+        {
+          "friendlyName": "77.7 Resonite FM",
+          "shortCode": "resonitefm",
+          "imageMediaUrl": "https://radio.dinosite.net/station/api/station/resonitefm/art/-1",
+          "plsUrl": "https://radio.dinosite.net/public/resonitefm/playlist.pls",
+          "publicPlayerUrl": "https://radio.dinosite.net/public/resonitefm",
+          "preferredMount": "https://radio.dinosite.net/listen/resonitefm/radio.mp3",
+          "description": "Hits from the center of the digital universe.",
           "supportsHls": false,
           "hlsUrl": null
         },
