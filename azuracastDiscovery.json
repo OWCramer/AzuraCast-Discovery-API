@@ -82,7 +82,7 @@
         {
           "friendlyName": "Multiverse Radio",
           "shortCode": "multiverse",
-          "imageMediaUrl": "https://radio.dinosite.net/station/api/station/multiverse/art/-1",
+          "imageMediaUrl": "https://anquietas-sys.us/cdn/stationicons/MultiverseRadio.png",
           "plsUrl": "https://radio.dinosite.net/public/multiverse/playlist.pls",
           "publicPlayerUrl": "https://radio.dinosite.net/public/multiverse",
           "preferredMount": "https://radio.dinosite.net/listen/multiverse/multiverse.mp3",
@@ -155,7 +155,7 @@
         {
           "friendlyName": "Outside The Club Radio",
           "shortCode": "outsidetheclub",
-          "imageMediaUrl": "https://radio.dinosite.net/station/api/station/outsidetheclub/art/-1",
+          "imageMediaUrl": "https://anquietas-sys.us/cdn/stationicons/OTCR.png",
           "plsUrl": "https://radio.dinosite.net/public/outsidetheclub/playlist.pls",
           "publicPlayerUrl": "https://radio.dinosite.net/public/outsidetheclub",
           "preferredMount": "https://radio.dinosite.net/listen/outsidetheclub/radio.mp3",
@@ -166,7 +166,7 @@
         {
           "friendlyName": "VSauce OST",
           "shortCode": "vsauce",
-          "imageMediaUrl": "https://radio.dinosite.net/station/api/station/vsauce/art/-1",
+          "imageMediaUrl": "https://anquietas-sys.us/cdn/stationicons/VsauceLogoSquare.png",
           "plsUrl": "https://radio.dinosite.net/public/vsauce/playlist.pls",
           "publicPlayerUrl": "https://radio.dinosite.net/public/vsauce",
           "preferredMount": "https://radio.dinosite.net/listen/vsauce/radio.mp3",
@@ -326,7 +326,7 @@
         {
           "friendlyName": "77.7 Resonite FM",
           "shortCode": "resonitefm",
-          "imageMediaUrl": "https://radio.dinosite.net/station/api/station/resonitefm/art/-1",
+          "imageMediaUrl": "https://anquietas-sys.us/cdn/stationicons/ResoniteFM.png",
           "plsUrl": "https://radio.dinosite.net/public/resonitefm/playlist.pls",
           "publicPlayerUrl": "https://radio.dinosite.net/public/resonitefm",
           "preferredMount": "https://radio.dinosite.net/listen/resonitefm/radio.mp3",
